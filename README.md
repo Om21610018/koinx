@@ -1,4 +1,4 @@
-# Cryptocurrency Price Tracker
+# Koinx
 
 A modern React application for tracking cryptocurrency prices, market trends, and detailed analytics. Built with TypeScript, React, and Tailwind CSS.
 
